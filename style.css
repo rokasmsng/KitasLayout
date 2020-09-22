@@ -1,0 +1,54 @@
+body {
+	background-color: #0B0719;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.dideliskairys {
+	background-color: #FF00FF;
+	width: 60%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.didelisdesinys {
+	background-color: #FF00FF;
+	width: 40%
+}
+
+
+header {
+	background-color: #2E2EFE;
+	width: 100%;
+	height: 100px;
+}
+
+.konteineris {
+	background-color: #58FA82;
+	height: 240px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 50%;
+}
+
+#virsus {
+	background-color: #F5FBEF;
+	width: 100%;
+	height: 50%;
+}
+#apatinis{
+	background-color: #2E2EFE;
+    width: 100%;
+	height: 50%;
+}
+
+
+article {
+	background-color: #6A0888;
+	width: 50%;
+}
+
+footer {
+	background-color: #FF0000;
+	width: 100%
+}
